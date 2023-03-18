@@ -1,3 +1,6 @@
 {
-  "window.zoomLevel": 2
+  "window.zoomLevel": 1,
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": "file:///Users/macbook/Desktop/01%20Starting%20Project/.github/workflows/deploy.yml"
+  }
 }
